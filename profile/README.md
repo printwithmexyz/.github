@@ -1,9 +1,5 @@
-![Welcome to Printwithme.xyz](pwmxyz.png)
-
 
 # [Welcome to Printwithme.xyz](https://printwithme.xyz)
-
-
 
 We are a full service 3D printing company based in the Greater Boston Area 
 
